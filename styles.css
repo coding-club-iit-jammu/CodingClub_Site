@@ -304,6 +304,7 @@ nav {
 .withoutbacktext p {
   text-align: Center;
   font-weight: 600;
+  font-size: x-large;
   margin: 0 auto;
   width: 60vw;
   font-family: var(--font1);
